@@ -5,4 +5,4 @@
 * Git
 * Subversion
 * CVS
- e outros
+ 
